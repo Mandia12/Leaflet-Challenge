@@ -19,9 +19,9 @@ Legend showing the color scale used to represent earthquake depths
 Data source: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson  
 Tools: D3, Leaflet, Javascript, HTML, CSS  
 Marker styling:  
-  Size: proportional to earthquake magnitude  
-  Color: based on earthquake depth, with a gradient of colors to represent different depth ranges  
-  Pop-up windows: bound to each earthquake marker, displaying relevant information  
+> Size: proportional to earthquake magnitude  
+> Color: based on earthquake depth, with a gradient of colors to represent different depth ranges  
+> Pop-up windows: bound to each earthquake marker, displaying relevant information  
 
 ## How to Use
 
